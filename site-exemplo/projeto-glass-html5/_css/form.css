@@ -1,0 +1,14 @@
+@charset "UTF-8";
+form{
+width: 400px;    
+margin: auto;    
+}
+
+input {
+    font-family: sans-serif;
+    font-weight:normal;
+    font-size: 13pt;
+}
+input:hover{
+    background-color: aqua;
+}
